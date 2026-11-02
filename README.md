@@ -25,7 +25,7 @@
 
 ## Install (one command, as root)
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/install.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/minecraft015662-svg/vps-bot/main/install.sh)
 ```
 Menu:
 ```
